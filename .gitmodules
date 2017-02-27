@@ -1,3 +1,6 @@
 [submodule "accountLibrary"]
 	path = accountLibrary
 	url = https://niyueming@github.com/niyueming/accountLibrary.git
+[submodule "aphAccountLibrary"]
+	path = aphAccountLibrary
+	url = https://niyueming@github.com/niyueming/aphAccountLibrary.git
