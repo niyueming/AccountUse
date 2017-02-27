@@ -9,5 +9,6 @@
  *
  */
 
-include ':app', ':aphAccountLibrary'
+include ':app'
 include ':accountLibrary'
+include ':aphAccountLibrary'
